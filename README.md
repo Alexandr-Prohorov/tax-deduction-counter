@@ -1,4 +1,4 @@
-# blog
+# tax-deduction-counter
 
 ## Project setup
 ```
